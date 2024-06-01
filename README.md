@@ -11,7 +11,7 @@ This is a simple Python script to change the MAC address of a network interface.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/mac-address-changer.git
+    git clone https://github.com/P4R4D0X-HACKS/MAC_Changer.git
     cd mac-address-changer
     ```
 
